@@ -1,4 +1,8 @@
 # WanderLust
-### -Website like AirBnb
+A Website like AirBnb
+#### Made using:
+- NodeJs
+- Express
+- MongoDB
 
 
